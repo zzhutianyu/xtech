@@ -1,0 +1,22 @@
+{
+  "nodes": [
+    {
+      "id": "Backend",
+      "id_display": "后台技术"
+    },
+    {
+      "id": "Database",
+      "id_display": "数据库"
+    }
+  ],
+  "links": [
+    {
+      "source": "Technology",
+      "target": "Backend"
+    },
+    {
+      "source": "Backend",
+      "target": "Database"
+    }
+  ]
+}
