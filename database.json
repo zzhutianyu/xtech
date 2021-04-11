@@ -1,8 +1,15 @@
 [
+  "tech/architecture.json",
+  "tech/backend/database/database.json",
+  "tech/backend/database/mysql.json",
+  "tech/backend/database/redis.json",
   "tech/backend.json",
   "tech/cs.json",
   "tech/front.json",
   "tech/ops.json",
+  "tech/programming/cpp.json",
+  "tech/programming/language.json",
+  "tech/programming/paradigm.json",
   "tech/programming.json",
   "tech.json"
 ]

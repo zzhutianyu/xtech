@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "id": "Relational database",
+      "id_display": "关系型数据库",
+      "link": "https://en.wikipedia.org/wiki/Relational_database",
+      "year": 1970
+    },
+    {
+      "id": "NoSQL",
+      "id_display": "非关系型数据库",
+      "link": "https://en.wikipedia.org/wiki/NoSQL"
+    }
+  ],
+  "links": [
+    {
+      "source": "Database",
+      "target": "Relational database"
+    },
+    {
+      "source": "Database",
+      "target": "NoSQL"
+    }
+  ]
+}

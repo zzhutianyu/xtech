@@ -7,6 +7,14 @@
     {
       "id": "Database",
       "id_display": "数据库"
+    },
+    {
+      "id": "MiddlewareTech",
+      "id_display": "中间件"
+    },
+    {
+      "id": "Distributed Systems",
+      "id_display": "分布式系统"
     }
   ],
   "links": [
@@ -17,6 +25,14 @@
     {
       "source": "Backend",
       "target": "Database"
+    },
+    {
+      "source": "Backend",
+      "target": "MiddlewareTech"
+    },
+    {
+      "source": "Backend",
+      "target": "Distributed Systems"
     }
   ]
 }

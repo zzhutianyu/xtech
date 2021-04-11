@@ -1,15 +1,15 @@
 {
   "nodes": [
     {
-      "id": "Programming",
-      "id_display": "编程"
+      "id": "Architecture",
+      "id_display": "架构"
     }
   ],
   "links": [
 
     {
       "source": "Technology",
-      "target": "Programming"
+      "target": "Architecture"
     }
   ]
 }

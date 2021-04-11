@@ -1,0 +1,22 @@
+{
+  "nodes": [
+    {
+      "id": "Redis",
+      "year": 2009,
+      "link": [
+        "https://redis.io/",
+        "https://zh.wikipedia.org/wiki/Redis"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "NoSQL",
+      "target": "Redis"
+    },
+    {
+      "source": "Database",
+      "target": "Redis"
+    }
+  ]
+}

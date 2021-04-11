@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "id": "Programming language",
+      "id_display": "编程语言",
+      "link": [
+        "https://zh.wikipedia.org/wiki/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80"
+      ]
+    },
+    {
+      "id": "Static language",
+      "id_display": "静态语言"
+    }
+  ],
+  "links": [
+    {
+      "source": "Programming",
+      "target": "Programming language"
+    },
+    {
+      "source": "Programming language",
+      "target": "Static language"
+    }
+  ]
+}

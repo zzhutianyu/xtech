@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "id": "Programming paradigm",
+      "id_display": "编程范式"
+    }
+  ],
+  "links": [
+    {
+      "source": "Programming",
+      "target": "Programming paradigm"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nodes": [
+    {
+      "id": "Cpp",
+      "year": 1985,
+      "link": [
+        "http://zh.cppreference.com",
+        "https://en.wikipedia.org/wiki/C%2B%2B"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "Programming language",
+      "target": "Cpp"
+    },
+    {
+      "source": "Static language",
+      "target": "Cpp"
+    }
+  ]
+}

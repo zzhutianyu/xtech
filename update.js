@@ -6,7 +6,7 @@ function walk (dir, record) {
         if (fs.statSync(path.join(dir, fileOrDir)).isDirectory()) walk(path.join(dir, fileOrDir), record)
 
         if (fileOrDir.endsWith(".json")) {
-            if (['database.json', 'database.schema.json', 'graph.schema.json', '.eslintrc.json', 'package-lock.json', 'package.json'].includes(fileOrDir)) {
+            if (['database.json', 'database.schema.json', 'graph.schema.json', '.eslintrc.json', 'package-lock.json', 'package.json'].includes(path.join(dir, fileOrDir))) {
                 return
             }
             record.push(path.join(dir, fileOrDir))
