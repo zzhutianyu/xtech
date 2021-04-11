@@ -1,0 +1,15 @@
+{
+  "nodes": [
+    {
+      "id": "Cs",
+      "id_display": "计算机相关"
+    }
+  ],
+  "links": [
+
+    {
+      "source": "Technology",
+      "target": "Cs"
+    }
+  ]
+}

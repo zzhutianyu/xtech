@@ -1,0 +1,15 @@
+{
+  "nodes": [
+    {
+      "id": "Front",
+      "id_display": "前端"
+    }
+  ],
+  "links": [
+
+    {
+      "source": "Technology",
+      "target": "Front"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "nodes": [
+    {
+      "id": "Programming",
+      "id_display": "编程语言"
+    }
+  ],
+  "links": [
+
+    {
+      "source": "Technology",
+      "target": "Programming"
+    }
+  ]
+}
