@@ -1,4 +1,8 @@
 [
-  "tech.json",
-  "tech/backend.json"
+  "tech/backend.json",
+  "tech/cs.json",
+  "tech/front.json",
+  "tech/ops.json",
+  "tech/programming.json",
+  "tech.json"
 ]
