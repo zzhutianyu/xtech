@@ -1,0 +1,28 @@
+{
+  "nodes": [
+    {
+      "id": "Javascript",
+      "year": 1995,
+      "link": [
+        "https://www.javascript.com/",
+        "https://javascript.ruanyifeng.com/",
+        "http://es6.ruanyifeng.com/",
+        "https://zh.wikipedia.org/wiki/JavaScript"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "Programming language",
+      "target": "Javascript"
+    },
+    {
+      "source": "Dynamic language",
+      "target": "Javascript"
+    },
+    {
+      "source": "Weak typing",
+      "target": "Javascript"
+    }
+  ]
+}

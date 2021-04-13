@@ -10,6 +10,24 @@
     {
       "id": "Static language",
       "id_display": "静态语言"
+    },
+    {
+      "id": "Dynamic language",
+      "id_display": "动态语言"
+    },
+    {
+      "id": "Strong typing",
+      "id_display": "强类型",
+      "link": [
+        "https://en.wikipedia.org/wiki/Strong_and_weak_typing"
+      ]
+    },
+    {
+      "id": "Weak typing",
+      "id_display": "弱类型",
+      "link": [
+        "https://en.wikipedia.org/wiki/Strong_and_weak_typing"
+      ]
     }
   ],
   "links": [
@@ -20,6 +38,18 @@
     {
       "source": "Programming language",
       "target": "Static language"
+    },
+    {
+      "source": "Programming language",
+      "target": "Dynamic language"
+    },
+    {
+      "source": "Programming language",
+      "target": "Strong typing"
+    },
+    {
+      "source": "Programming language",
+      "target": "Weak typing"
     }
   ]
 }

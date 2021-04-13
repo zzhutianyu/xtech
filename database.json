@@ -8,8 +8,11 @@
   "tech/front.json",
   "tech/ops.json",
   "tech/programming/cpp.json",
+  "tech/programming/java.json",
+  "tech/programming/javascript.json",
   "tech/programming/language.json",
   "tech/programming/paradigm.json",
+  "tech/programming/python.json",
   "tech/programming.json",
   "tech.json"
 ]

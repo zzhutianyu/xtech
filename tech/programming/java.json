@@ -1,0 +1,26 @@
+{
+  "nodes": [
+    {
+      "id": "Java",
+      "year": 1995,
+      "link": [
+        "http://www.java.com",
+        "https://zh.wikipedia.org/wiki/Java"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "Programming language",
+      "target": "Java"
+    },
+    {
+      "source": "Static language",
+      "target": "Java"
+    },
+    {
+      "source": "Strong typing",
+      "target": "Java"
+    }
+  ]
+}

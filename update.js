@@ -3,6 +3,7 @@ const path = require('path')
 
 function walk (dir, record) {
     fs.readdirSync(dir).forEach(fileOrDir => {
+        if (fileOrDir === 'node_modules') return;
         if (fs.statSync(path.join(dir, fileOrDir)).isDirectory()) walk(path.join(dir, fileOrDir), record)
 
         if (fileOrDir.endsWith(".json")) {
